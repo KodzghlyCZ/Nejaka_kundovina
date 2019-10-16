@@ -8,13 +8,22 @@ body {
   height: 100%;
 }
 
+header {
+  background-color: #333;
+  left: 0px;
+  top: 0px;
+}
+
+#headerlogo {
+  float: left;
+}
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+
 }
 
 li {
